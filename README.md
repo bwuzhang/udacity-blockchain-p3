@@ -1,5 +1,24 @@
 # Supply chain & data auditing
 
+## Project Write-up
+Deployed Contract Address: 0xe00d852a6d64f8083d68f059878faf20a6c9fd02
+
+UMLs: Please refer to [diagrams](diagrams) folder
+
+IPFS: Not Used
+
+Node: 16.15.0
+
+Truffle: 4.1.14
+
+truffle-hdwallet-provider: 1.0.17
+
+
+
+
+
+## Project
+
 This repository containts an Ethereum DApp that demonstrates a Supply Chain flow between a Seller and Buyer. The user story is similar to any commonly used supply chain process. A Seller can add items to the inventory system stored in the blockchain. A Buyer can purchase such items from the inventory system. Additionally a Seller can mark an item as Shipped, and similarly a Buyer can mark an item as Received.
 
 The DApp User Interface when running should look like...
